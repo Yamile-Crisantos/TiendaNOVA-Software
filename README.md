@@ -1,2 +1,2 @@
 # TiendaNOVA-Software
-Sistema de ventas para una tienda pequeña denominadas "tiendita de la esquina".
+Software de punto de venta y gestión de inventario para tiendas minoristas denominadas "tienditas de la esquina".
